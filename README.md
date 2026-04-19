@@ -1,5 +1,5 @@
-📊 Portfólio de Dados | Seu Nome
-Olá! Sou um profissional em transição de carreira, com forte base analítica (inserir sua formação anterior) focando agora em Análise de Dados e Business Intelligence.
+📊 Portfólio de Dados | Larissa
+Olá! Sou um profissional em transição de carreira, com forte base analítica devido minha formação em engenharia focando agora em Análise de Dados e Business Intelligence.
 
 🏆 Projeto Destaque: Automação e Controle Financeiro para Corretora de Seguros
 Problema de Negócio:
@@ -12,15 +12,15 @@ Ferramentas Utilizadas:
 
 Excel / Power Query (para limpeza dos dados)
 
-Power BI (para visualização) [Ajuste para as ferramentas que você usou]
+Macro
 
-O que foi feito (Passo a Passo):
+O que foi feito:
 
 Coleta e padronização dos dados de comissões e apólices.
 
 Tratamento e modelagem dos dados.
 
-Criação de um dashboard interativo para a gestão acompanhar as renovações pendentes e o faturamento do mês.
+Criação de um dashboard interativo para a gestão acompanhar as renovações e o faturamento do mês.
 
-Impacto / Resultados:
-A automação reduziu o tempo gasto com controles manuais em X horas por semana e permitiu prever as renovações do mês seguinte com 100% de precisão, evitando perda de clientes.
+Resultados:
+A automação reduziu o tempo gasto com controles manuais.
