@@ -25,3 +25,5 @@ Criação de um dashboard interativo para a gestão acompanhar as renovações e
 
 🎯Resultados:
 A automação reduziu o tempo gasto com controles manuais.
+
+Observações: Os dados reais foram substituídos por dados fictícios.
