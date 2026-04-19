@@ -1,6 +1,6 @@
 # 📊 Portfólio de Dados | Larissa
 
-Olá! Sou um profissional em transição de carreira, com forte base analítica devido minha formação em engenharia focando agora em Análise de Dados e Business Intelligence.
+Olá! Sou uma profissional em transição de carreira, com forte base analítica devido minha formação em engenharia focando agora em Análise de Dados e Business Intelligence.
 
 🏆Projeto Destaque: Automação e Controle Financeiro para Corretora de Seguros
 Problema de Negócio:
